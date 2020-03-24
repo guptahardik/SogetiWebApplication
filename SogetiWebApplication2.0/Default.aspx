@@ -25,6 +25,7 @@
 
     <div class="container">
         <label>
+            <asp:Button ID="LoginButton" runat="server" Font-Size="Small" Height="22px" OnClick="Button1_Click" Text="Login" Width="69px" />
             <input type="checkbox" checked="checked" name="remember"> Remember me
         </label>
     </div>

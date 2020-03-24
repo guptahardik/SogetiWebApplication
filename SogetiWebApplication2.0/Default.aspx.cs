@@ -13,5 +13,11 @@ namespace SogetiWebApplication2._0
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            // Login Button
+            Response.Redirect("Contact.aspx");
+        }
     }
 }
