@@ -10,7 +10,6 @@
 namespace SogetiWebApplication2._0
 {
 
-
     public partial class _Default
     {
 
